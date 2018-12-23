@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1454137616 source:c:\users\dell pc\documents\te\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\assert.h
+	<_mingw.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1454137616 c:\users\dell pc\documents\te\imageloader.h
+
